@@ -126,6 +126,7 @@ function generatePassword() {
     alert(
       "You have to choose at least one option to generate a password. Please, try again"
     );
+    return (pwOutput = []);
   } else {
     // If condition met
     // New array created with index numbers of a userInputArr array (dependin if it is true or false) If value is true, will return and idex if false will return undefined
