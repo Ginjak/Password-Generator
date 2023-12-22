@@ -18,7 +18,7 @@ n/a
 
 3. Click the "Generate Password" button to create a random password, which will then be displayed on the screen.
 
-![](/images/screenshot.png)
+![](/assets/images/screenshot.png)
 
 ## Credits
 
